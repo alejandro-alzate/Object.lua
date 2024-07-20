@@ -1,5 +1,5 @@
 # *Object.lua*
-An simple oop wrapper for oop programming originally made by @a327ex
+An simple oop wrapper for oop programming originally made by [a327ex](https://github.com/a327ex)
 First of all give this guy [game](https://github.com/a327ex/SNKRX) a star is well deserved! or buy his game for a couple of bucks on [steam](https://store.steampowered.com/app/915310/SNKRX/) to support this developer.
 
 If you're seeing this is problably because a library of mine uses it and
